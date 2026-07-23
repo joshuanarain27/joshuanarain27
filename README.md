@@ -2,7 +2,7 @@
 
 🎓 Bachelor of Science Student @ University of the Fraser Valley 
 
-💻 Currently learning
+💻 Currently learning:
 - Python
 - C++
 - Git & GitHub
