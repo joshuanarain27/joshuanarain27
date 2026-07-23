@@ -2,11 +2,12 @@
 
 🎓 Bachelor of Science Student @ University of the Fraser Valley 
 
-💻 Currently Learning: 
+💻 Currently learning
 - Python
 - C++
 - Git & GitHub
 
-🚀 Stay Tuned For My Smart Closet Project 
+🚀 Current project: Smart Closet (Coming Soon)  
 
-⛳️ Passionarte about tech, software, and building uselful applications 
+⛳️ Passionate about technology, software, and building useful applications 
+📚 Always looking for opportunities to learn and grow 
